@@ -10,7 +10,8 @@ All dynamic features of the website are developed using native PHP
 - Implementing JavaScript and PHP for image cropping using the cropperjs Library
 - Implementing a search feature
 
-Front end : bootstrap, css native, javascript native, sweetalert
-Back end : PHP native (OOP with Clean Architecture)
+## Tech Stack
+- ### Front end : bootstrap, css native, javascript native, sweetalert
+- ### Back end : PHP native (OOP with Clean Architecture -> PDO driver with MySQL)
 
 
